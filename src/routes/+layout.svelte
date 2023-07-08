@@ -33,7 +33,6 @@
     padding: 12px 0;
     border-bottom: 1px solid #ddd;
     font-size: 24px;
-    margin-bottom: 64px;
   }
 
   #main{
