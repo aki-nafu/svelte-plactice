@@ -1,3 +1,7 @@
+<script>
+  import "../app.css";
+</script>
+
 <div class='container'>
   <header id="header">
     <h1>Sample Site</h1>
