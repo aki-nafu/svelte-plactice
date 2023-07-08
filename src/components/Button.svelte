@@ -4,7 +4,7 @@
 </script>
 
 <div class="button-container">
-  <a href="to" target="_blank" class="button">{text}</a>
+  <a href={to} target="_blank" class="button">{text}</a>
 </div>
 
 <style>

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Button from '../../../compornents/Button.svelte';
+  import Button from '../../../components/Button.svelte';
   export let data;
   $: title = data.articles.title;
   $: auther = data.articles.authors[0].name

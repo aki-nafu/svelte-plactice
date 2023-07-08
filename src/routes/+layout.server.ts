@@ -1,2 +1,2 @@
-export const prepender = true;
+export const prerender = true;
 export const trailingSlash = 'always';
