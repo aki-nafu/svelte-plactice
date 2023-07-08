@@ -7,7 +7,6 @@
     <slot />
   </main>
   <footer id="footer">
-    <p>テスト</p>
   </footer>
 </div>
 
