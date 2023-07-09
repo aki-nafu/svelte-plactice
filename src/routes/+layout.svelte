@@ -4,7 +4,9 @@
 
 <div class='container'>
   <header id="header">
-    <h1>Sample Site</h1>
+    <a href="/">
+      <h1>Sample Site</h1>
+    </a>
     <a href="/clock/" class="link">clock</a>
   </header>
   <main id="main">
