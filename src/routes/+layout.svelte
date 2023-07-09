@@ -5,7 +5,7 @@
 <div class='container'>
   <header id="header">
     <a href="/">
-      <h1>Sample Site</h1>
+      <h1>Gutendex Articles</h1>
     </a>
     <a href="/clock/" class="link">clock</a>
   </header>
