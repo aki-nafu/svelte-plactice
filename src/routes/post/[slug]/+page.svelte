@@ -14,7 +14,12 @@
 </svelte:head>
 
 <div class="single">
-  <div class="back-link"><a href="/">書籍一覧へ戻る</a></div>
+  <div class="flex">
+    <a href="/" class="text-blue-400">
+      TOP
+    </a>
+    <p>/詳細ページ</p>
+  </div>
   <h1 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{title}</h1>
   <p class="name">著者:{auther} <span>{birth} = {dead}</span></p>
   <p class="text">カテゴリ</p>
